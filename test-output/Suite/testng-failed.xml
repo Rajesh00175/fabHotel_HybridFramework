@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="firefoxTest(failed)">
+    <classes>
+      <class name="com.FabHotel_MVN.Hotel_ListPageTest">
+        <methods>
+          <include name="TestFilter"/>
+        </methods>
+      </class> <!-- com.FabHotel_MVN.Hotel_ListPageTest -->
+    </classes>
+  </test> <!-- firefoxTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->

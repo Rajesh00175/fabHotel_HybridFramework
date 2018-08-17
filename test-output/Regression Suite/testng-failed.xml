@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" guice-stage="DEVELOPMENT" name="Failed suite [Regression Suite]">
+  <test name="Regression Testing(failed)">
+    <classes>
+      <class name="com.FabHotel_MVN_sprint1.Hotel_ListPageTest">
+        <methods>
+          <include name="TestFilter"/>
+        </methods>
+      </class> <!-- com.FabHotel_MVN_sprint1.Hotel_ListPageTest -->
+    </classes>
+  </test> <!-- Regression Testing(failed) -->
+</suite> <!-- Failed suite [Regression Suite] -->

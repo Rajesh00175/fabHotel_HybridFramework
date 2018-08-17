@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" name="Regression Suite">
+	<test name="Regression Testing">
+   		<classes>
+      		<class name="com.FabHotel_MVN_sprint1.HomePageTest"/>
+      		<class name="com.FabHotel_MVN_sprint1.Search_HotelTest"/>
+      		<class name="com.FabHotel_MVN_sprint1.Hotel_ListPageTest"/>
+    	</classes>
+  	</test> <!-- Test -->
+</suite> <!-- Suite -->

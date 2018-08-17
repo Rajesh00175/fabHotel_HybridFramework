@@ -1,0 +1,29 @@
+2018-08-09 14:37:56 INFO  TestBase:193 - Loading config.properties
+2018-08-09 14:37:56 INFO  TestBase:198 - Loading or.properties
+2018-08-09 14:37:56 INFO  TestBase:203 - Loading homepage.properties
+2018-08-09 14:38:13 INFO  WaitHelper:34 - 20
+2018-08-09 14:38:13 INFO  WaitHelper:39 - 240
+2018-08-09 14:38:13 INFO  HomePageTest:24 - com.FabHotel_MVN_sprint1.HomePageTest started
+2018-08-09 14:38:19 INFO  WaitHelper:64 - element found...
+2018-08-09 14:38:21 INFO  Home_Page:44 - FabHotel Home Page Clicked
+2018-08-09 14:38:21 INFO  Home_Page:67 - Clicking on Corporate Enquiry Link
+2018-08-09 14:38:22 INFO  Home_Page:55 - Quiting Enquary page tab...
+2018-08-09 14:38:23 INFO  Search_HotelTest:23 - com.FabHotel_MVN_sprint1.Search_HotelTest started
+2018-08-09 14:38:25 INFO  WaitHelper:64 - element found...
+2018-08-09 14:38:25 INFO  Search_Hotel_Page:70 - Entering Destination Location...Mumbai
+2018-08-09 14:38:25 INFO  Search_Hotel_Page:75 - Selecting Checkin Date...
+2018-08-09 14:38:30 INFO  Search_Hotel_Page:92 - Selecting Checkout Date...
+2018-08-09 14:38:30 INFO  Search_Hotel_Page:109 - Selecting Adult...
+2018-08-09 14:38:31 INFO  Search_Hotel_Page:123 - clickin on Submit Button and Redirecting to List Page...
+2018-08-09 14:38:33 INFO  WaitHelper:64 - element found...17 FabHotels found
+2018-08-09 14:38:33 INFO  Hotel_ListPageTest:14 - com.FabHotel_MVN_sprint1.Hotel_ListPageTest started
+2018-08-09 14:38:34 INFO  WaitHelper:64 - element found...17 FabHotels found
+2018-08-09 14:38:34 INFO  Search_Hotel_Page:58 - Validating Hotel list Page[[FirefoxDriver: firefox on XP (fd928799-53d7-4657-b811-ddf0166cb465)] -> class name: title_wrapper]
+2018-08-09 14:38:34 INFO  Search_Hotel_Page:63 - Clicking more city link...[[FirefoxDriver: firefox on XP (fd928799-53d7-4657-b811-ddf0166cb465)] -> class name: more-less-cities]
+2018-08-09 14:38:34 INFO  Search_Hotel_Page:67 - Applying City Filter ...[[FirefoxDriver: firefox on XP (fd928799-53d7-4657-b811-ddf0166cb465)] -> class name: locality-name]
+2018-08-09 14:38:34 INFO  Search_Hotel_Page:91 - Scrolling to the End of Filter Element...[[FirefoxDriver: firefox on XP (fd928799-53d7-4657-b811-ddf0166cb465)] -> xpath: //div[@id='room_amenities_filter']/ul/li/label/div[@class='control__indicator']]
+2018-08-09 14:38:35 INFO  Search_Hotel_Page:71 - Applying Guest Filter ...[[FirefoxDriver: firefox on XP (fd928799-53d7-4657-b811-ddf0166cb465)] -> xpath: //div[@id='policy_filter']/ul/li/label/div[@class='control__indicator']]
+2018-08-09 14:38:35 INFO  Search_Hotel_Page:75 - Applying Occupancy Filter ...[[FirefoxDriver: firefox on XP (fd928799-53d7-4657-b811-ddf0166cb465)] -> xpath: //div[@id='max_guest_filter']/ul/li/label/div[@class='control__indicator']]
+2018-08-09 14:38:35 INFO  Search_Hotel_Page:79 - Applying Amenities Filter ...[[FirefoxDriver: firefox on XP (fd928799-53d7-4657-b811-ddf0166cb465)] -> xpath: //div[@id='room_amenities_filter']/ul/li/label/div[@class='control__indicator']]
+2018-08-09 14:38:36 INFO  Search_Hotel_Page:97 - Scrooling to Top of page to clear filters...
+2018-08-09 14:38:36 INFO  Search_Hotel_Page:83 - Clearing filters...
