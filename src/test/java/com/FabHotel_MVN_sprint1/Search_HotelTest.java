@@ -43,5 +43,6 @@ public class Search_HotelTest extends TestBase{
 		searchHotelPage.selectCheckOut(coutMnYr, coutDay);
 		searchHotelPage.selectAudult(Adult);
 		searchHotelPage.clickOnSubmitButton();
+		
 	}
 }
